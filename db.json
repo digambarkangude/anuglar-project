@@ -1,0 +1,83 @@
+{
+  "seller": [
+    {
+      "name": "Digambar",
+      "email": "digambar.kangude@gmail.com",
+      "password": "Admin@123",
+      "id": 1
+    },
+    {
+      "name": "Vedika",
+      "email": "vedu.kangude@gmail.com",
+      "password": "Admin@123",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone6",
+      "price": "10000",
+      "color": "black",
+      "category": "mobiles",
+      "description": "fdfdfdffd",
+      "image": "https://cdn.pixabay.com/photo/2014/08/05/10/27/iphone-410311_960_720.jpg",
+      "id": 1
+    },
+    {
+      "name": "asdf",
+      "price": "asdfasdf",
+      "color": "asdfsaf",
+      "category": "asdf",
+      "description": "sadf",
+      "image": "https://picsum.photos/id/944/900/500",
+      "id": 2
+    },
+    {
+      "name": "FP Laptop",
+      "price": "500000",
+      "color": "black",
+      "category": "HP Product",
+      "description": "HP Product",
+      "image": "https://picsum.photos/id/944/900/500",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Digambar",
+      "email": "digambar.kangude@gmail.com",
+      "password": "Admin@123",
+      "id": 1
+    },
+    {
+      "name": "Vedu",
+      "email": "vedu@gmail.com",
+      "password": "Admin@123",
+      "id": 2
+    },
+    {
+      "name": "Mayank",
+      "email": "mayank@gmail.com",
+      "password": "Admin@123",
+      "id": 3
+    },
+    {
+      "name": "Bruce",
+      "email": "bruce@gmail.com",
+      "password": "Admin@123",
+      "id": 4
+    },
+    {
+      "name": "Bob",
+      "email": "bob@gmail.com",
+      "password": "Admin@123",
+      "id": 5
+    },
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "password": "Adfsfj",
+      "id": 6
+    }
+  ]
+}

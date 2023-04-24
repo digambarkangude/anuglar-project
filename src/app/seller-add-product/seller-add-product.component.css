@@ -1,0 +1,25 @@
+.sign-up, .login{
+  text-align: center;
+
+}
+
+.sign-up, .login h1{
+  margin-bottom: 50px;
+  margin-top: 80px;
+  color: blueviolet;
+}
+.auth-toggle-link{
+  margin-top: 20;
+  color: blueviolet;
+  font-size: 14;
+  text-align: left;
+  cursor: pointer;
+}
+
+.error-p{
+  color: red;
+}
+
+.add-product{
+  text-align: center;
+}
